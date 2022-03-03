@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "course.androidhomework"
+        applicationId "ru.madbrains.irlix.android"
         minSdk 21
         targetSdk 21
         versionCode 1
@@ -28,6 +28,11 @@ android {
     }
     kotlinOptions {
         jvmTarget = '1.8'
+    }
+
+    viewBinding.enabled = true
+    buildFeatures {
+        viewBinding true
     }
 }
 
