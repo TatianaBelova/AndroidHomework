@@ -8,4 +8,14 @@
     <string name="close_friends">Close Friends</string>
     <string name="discover_people">Discover People</string>
     <string name="covid_19_information_center">COVID-19 Information Center</string>
+    <string name="reels">reels</string>
+    <string name="reelsTitle">Reels</string>
+    <string name="photo">photo</string>
+    <string name="favorite">favorite</string>
+    <string name="comments">comments</string>
+    <string name="share">share</string>
+    <string name="_19_6k">19.6k</string>
+    <string name="_110">110</string>
+    <string name="try_at_your_onw_risk">Try at your onw risk</string>
+    <string name="original_music">Original music</string>
 </resources>
