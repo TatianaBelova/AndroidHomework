@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095614035544",
+    "project_id": "belova-cefe0",
+    "storage_bucket": "belova-cefe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095614035544:android:a47c6d8b18934ae6783c2d",
+        "android_client_info": {
+          "package_name": "course.androidhomework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095614035544-e9qigbf6o8f67h7q94hmsrcl33996o1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr149Wz0tYPDGerV3_I21wvRjSRqBoF98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095614035544-e9qigbf6o8f67h7q94hmsrcl33996o1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
